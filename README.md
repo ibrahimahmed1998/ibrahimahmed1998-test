@@ -1,13 +1,12 @@
 ### Hi there, I'm Ibrahim Ahmed  👋
 ### I'm Fresh Graduate 
 <br>
-
 - 🔭 I’m currently working on Self Projects
 - 🌱 I’m currently learning Web and Desktop applications   
 - 👯 I’m looking to collaborate on sharing useful Apps
-<!-- - 🥅 2021 Goals: Contribute more to Open Source projects & Master Data Science -->
 - ⚡ Fun fact: Most of time I watch business news
-- 
+<!-- - 🥅 2021 Goals: Contribute more to Open Source projects & Master Data Science -->
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/ibrahimahmed1998)
