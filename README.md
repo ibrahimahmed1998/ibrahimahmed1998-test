@@ -1,10 +1,10 @@
 ### Hi there, I'm Ibrahim Ahmed  👋
 ### I'm Fresh Graduate 
-<br>
-- 🔭 I’m currently working on Self Projects
-- 🌱 I’m currently learning Web and Desktop applications   
-- 👯 I’m looking to collaborate on sharing useful Apps
-- ⚡ Fun fact: Most of time I watch business news
+<br><br>
+<li> 🔭 I’m currently working on Self Projects </li>
+<li> 🌱 I’m currently learning Web and Desktop applications  </li>  
+<li> 👯 I’m looking to collaborate on sharing useful Apps </li>
+<li> ⚡ Fun fact: Most of time I watch business news </li>
 <!-- - 🥅 2021 Goals: Contribute more to Open Source projects & Master Data Science -->
 
 ### Connect with me:
