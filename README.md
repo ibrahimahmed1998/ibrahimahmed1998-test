@@ -1,6 +1,6 @@
 ### Hi there, I'm Ibrahim Ahmed  👋
 ### I'm Fresh Graduate 
-<br><br>
+
 <li> 🔭 I’m currently working on Self Projects </li>
 <li> 🌱 I’m currently learning Web and Desktop applications  </li>  
 <li> 👯 I’m looking to collaborate on sharing useful Apps </li>
