@@ -4,8 +4,7 @@
 <li> 🔭 I’m currently working on Self Projects </li>
 <li> 🌱 I’m currently learning Web and Desktop applications  </li>  
 <li> 👯 I’m looking to collaborate on sharing useful Apps </li>
-<li> ⚡ Fun fact: Most of time I watch business news </li>
-<!-- - 🥅 2021 Goals: Contribute more to Open Source projects & Master Data Science -->
+<li> ⚡ Fun fact: Most of Programmers really don't want to open cyber " Internet Café "  or install Windows as a job X'D </li>
 
 ### Connect with me:
 
