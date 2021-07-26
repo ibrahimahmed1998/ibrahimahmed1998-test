@@ -9,6 +9,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://eg.linkedin.com/in/ibrahimahmed1998)
+
+[<img align="left" alt="codeSTACKr|stackoverflow" width="22px" src="https://commons.wikimedia.org/wiki/File:Stack_Overflow_icon.svg"/>](stackoverflow.com/users/9016681)
+
 <br/>
 ### Languages and Tools:
 
