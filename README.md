@@ -1,6 +1,6 @@
 ### Hi there, I'm Ibrahim Ahmed  👋
 
-https://github.com/YOUR_USERNAME/ibrahimahmed1998/blob/output/github-contribution-grid-snake.gif
+https://github.com/ibrahimahmed1998/ibrahimahmed1998/blob/output/github-contribution-grid-snake.gif
 
 
 
