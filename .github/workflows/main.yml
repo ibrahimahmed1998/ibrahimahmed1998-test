@@ -17,8 +17,7 @@ Michelle Mannering
 Posted on Jun 28, 2021 • Updated on Feb 24
 
 How to enable GitHub Actions on your Profile README for a snake-eating contribution graph 🐍
-#
-github
+#github
 #
 markdown
 #
@@ -483,7 +482,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ibrahimahmed1998
+          github_user_name: mishmanners
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
