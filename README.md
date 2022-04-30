@@ -1,7 +1,6 @@
 ### Hi there, I'm Ibrahim Ahmed  👋
 
-https://github.com/ibrahimahmed1998/ibrahimahmed1998/blob/output/github-contribution-grid-snake.gif
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
 <li> 👯 I’m looking to collaborate on sharing useful Apps </li>
